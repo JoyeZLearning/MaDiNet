@@ -10,20 +10,6 @@
 - (10/2024) Code is released.
 - main code will be immediately updated once our paper is accepted.
 
-## 🕸️ Dataset
-
-
-
-
-## 📽️ Getting Started
-
-The installation instruction and usage are in [Getting Started with DiffusionDet](GETTING_STARTED.md).
-
-
-
-
-
-## 🏝️ Quantative Results:
 
 
 ## License
@@ -48,4 +34,7 @@ If you find DiffDet4SAR helpful to your research or wish to refer to the baselin
   doi={10.1109/LGRS.2024.3386020}}
 
 ```
+
+The BibTex MaDiNet is on her way🥰
+
 Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource on SAR image interpretations!🥰🥳🥂
