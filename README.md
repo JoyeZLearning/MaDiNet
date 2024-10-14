@@ -1,6 +1,6 @@
 ## MaDiNet
 
-👑**We believe MaDiNet is an interesting work and hope it can inspire more and more friends to explore this field.**
+👑**We believe MaDiNet is an interesting work and hope it can  provide a little bit of inspiration for more and more friends to explore this field.**
 
 
 
