@@ -8,7 +8,7 @@
 
 ## 🛠️ Updates
 - (10/2024) Code is released.
-- main code will be immediately updated once our paper is accepted.
+- complete code will be immediately updated once our paper is accepted.
 
 
 
