@@ -19,7 +19,7 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE) for detai
 
 ## 💡 Citing DiffDet4SAR and MaDiNet
 
-If you find DiffDet4SAR helpful to your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
+If you find DiffDet4SAR and MaDiNet helpful to your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
 
 ```BibTeX
 @ARTICLE{10494361,
@@ -35,6 +35,12 @@ If you find DiffDet4SAR helpful to your research or wish to refer to the baselin
 
 ```
 
+
+
 The BibTex of MaDiNet is on her way🥰
 
-Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource on SAR image interpretations!🥰🥳🥂
+
+
+
+Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource on SAR image interpretations!
+🥰🥳🥂
