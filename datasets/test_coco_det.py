@@ -71,7 +71,7 @@ def cv2_demo_det_gt(frame,detections,groundtruth):
             det.append([int(pt[0]), int(pt[1]), int(pt[2]), int(pt[3]), detections[i, 4]])
     return frame
 
-datasets_upper = 'D:/softapp/Anaconda/envs/pytorch_gpu/DiffusionDet-main/datasets/coco'
+datasets_upper = ' '
 
 mode = 'val'
 
@@ -89,9 +89,9 @@ else:
 
 #full path
 anno_full_path = os.path.join(datasets_upper,anno_path)
-# anno_full_path = r'D:\softapp\Anaconda\envs\pytorch_gpu\DiffusionDet-main\datasets\SAR_Ship_dataset\annotations\ship_val.json'
+# anno_full_path = r' '
 img_full_path = os.path.join(datasets_upper,img_path)
-# img_full_path = r'D:\softapp\Anaconda\envs\pytorch_gpu\DiffusionDet-main\datasets\SAR_Ship_dataset\ship_val'
+# img_full_path = r' '
 
 
 #get info
@@ -101,8 +101,8 @@ num_images = len(images_ids)
 
 
 # 加了r就不用改变斜杠的方向
-# det_json_path = r'D:\softapp\Anaconda\envs\pytorch_gpu\DiffusionDet-main\output_shipdataset_189999_96.931\inference\coco_eval_instances_results.json'
-det_json_path = r'D:\softapp\Anaconda\envs\pytorch_gpu\DiffusionDet-main\output_ssdd_29999_gamma_res50\inference\coco_eval_instances_results.json'
+# det_json_path = r' '
+det_json_path = r' '
 coco_dets = coco_sar.loadRes(det_json_path)
 
 #iterative process for each image:
