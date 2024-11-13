@@ -38,9 +38,17 @@ If you find DiffDet4SAR and MaDiNet helpful to your research or wish to refer to
 
 
 The BibTex of MaDiNet is on her way🥰
-
-
-
+```BibTeX
+@misc{zhou2024madinetmambadiffusionnetwork,
+      title={MaDiNet: Mamba Diffusion Network for SAR Target Detection}, 
+      author={Jie Zhou and Chao Xiao and Bowen Peng and Tianpeng Liu and Zhen Liu and Yongxiang Liu and Li Liu},
+      year={2024},
+      eprint={2411.07500},
+      archivePrefix={arXiv},
+      primaryClass={eess.IV},
+      url={https://arxiv.org/abs/2411.07500}, 
+}
+```
 
 Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource on SAR image interpretations!
 
