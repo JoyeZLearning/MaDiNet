@@ -1,4 +1,4 @@
-## MaDiNet
+## MaDiNet: Mamba Diffusion Network for SAR Target Detection
 
 👑**We're quite intrigued by MaDiNet and hope it can serve as a delightful spark of inspiration for more friends to delve into this fascinating field.**
 
