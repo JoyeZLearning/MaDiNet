@@ -10,7 +10,7 @@
 
 ## 🛠️ Updates
 - (10/2024) Code is released.
-- (05/26/2025) MaDiNet has been accepted by IEEE Transactions on Circuits and Systems for Video Technology (doi: 10.1109/TCSVT.2025.3574657).
+- (05/28/2025) MaDiNet has her unique identity card! (doi: 10.1109/TCSVT.2025.3574657).
 
 ## 🕸️ Dataset
 - SSDD [[link](https://github.com/TianwenZhang0825/Official-SSDD)]
