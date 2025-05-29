@@ -23,8 +23,11 @@
 
 ## 📽️ Getting Started
 
-The installation instruction and usage are in [Getting Started with DiffusionDet](GETTING_STARTED.md).
-The MambaSAR is inspired by MambaVision of NVlabs [MambaVision](https://github.com/NVlabs/MambaVision) and LeapLabTHU [attention](https://github.com/LeapLabTHU/Agent-Attention). Thanks to NVlabs and LeapLabTHU.
+- The installation instruction and usage are in [Getting Started with DiffusionDet](GETTING_STARTED.md).
+- The MambaSAR is inspired by MambaVision of NVlabs [MambaVision](https://github.com/NVlabs/MambaVision) and LeapLabTHU [attention](https://github.com/LeapLabTHU/Agent-Attention). Thanks to NVlabs and LeapLabTHU.
+
+
+
 *The overall repository style is highly borrowed from [DifffusionDet](https://github.com/ShoufaChen/DiffusionDet). Thanks to Shoufa Chen.
 
 
@@ -33,9 +36,19 @@ The MambaSAR is inspired by MambaVision of NVlabs [MambaVision](https://github.c
 This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE) for details.
 
 
-## 💡 Citing DiffDet4SAR and MaDiNet
+## 💡 Citing MaDiNet and DiffDet4SAR
 
-If you find DiffDet4SAR and MaDiNet helpful to your research or wish to refer to the baseline results published here, please use the following BibTeX entry🥰.
+If you find MaDiNet and DiffDet4SAR helpful to your research or wish to refer to the baseline results published here, please use the following BibTeX entry🥰.
+
+```BibTeX
+@ARTICLE{zhou2025madinet,
+  author={Zhou, Jie and Peng, Bowen and Liu, Yongxiang and Liu, Li and Li, Xiang},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={MaDiNet: Mamba Diffusion Network for SAR Target Detection}, 
+  year={2025}
+  }
+```
+
 
 ```BibTeX
 @ARTICLE{10494361,
@@ -51,14 +64,7 @@ If you find DiffDet4SAR and MaDiNet helpful to your research or wish to refer to
 
 ```
 
-```BibTeX
-@ARTICLE{zhou2025madinet,
-  author={Zhou, Jie and Peng, Bowen and Liu, Yongxiang and Liu, Li and Li, Xiang},
-  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={MaDiNet: Mamba Diffusion Network for SAR Target Detection}, 
-  year={2025}
-  }
-```
+
 
 Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource on SAR image interpretations!
 
