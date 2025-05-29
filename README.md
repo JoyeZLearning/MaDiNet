@@ -2,7 +2,7 @@
 
 👑**We're quite intrigued by MaDiNet and hope it can serve as a delightful spark of inspiration for more friends to delve into this fascinating field.**
 
-
+✨**MaDiNet is the first work to integrate Gamma distribution into diffusion model with Mamba for SAR target detection.**
 
 
 
@@ -41,12 +41,17 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE) for detai
 If you find MaDiNet and DiffDet4SAR helpful to your research or wish to refer to the baseline results published here, please use the following BibTeX entry🥰.
 
 ```BibTeX
-@ARTICLE{zhou2025madinet,
-  author={Zhou, Jie and Peng, Bowen and Liu, Yongxiang and Liu, Li and Li, Xiang},
+@ARTICLE{11016924,
+  author={Zhou, Jie and Liu, Yongxiang and Peng, Bowen and Liu, Li and Li, Xiang},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={MaDiNet: Mamba Diffusion Network for SAR Target Detection}, 
-  year={2025}
-  }
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Synthetic aperture radar;target detection;state space model;diffusion model},
+  doi={10.1109/TCSVT.2025.3574657}}
+
 ```
 
 
