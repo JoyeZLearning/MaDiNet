@@ -8,7 +8,7 @@
 
 ## 🛠️ Updates
 - (10/2024) Code is released.
-- complete code will be immediately updated once our paper is accepted.
+- (05/2025) MaDiNet has been accepted by IEEE Transactions on Circuits and Systems for Video Technology.
 
 
 
@@ -19,7 +19,7 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE) for detai
 
 ## 💡 Citing DiffDet4SAR and MaDiNet
 
-If you find DiffDet4SAR and MaDiNet helpful to your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
+If you find DiffDet4SAR and MaDiNet helpful to your research or wish to refer to the baseline results published here, please use the following BibTeX entry🥰.
 
 ```BibTeX
 @ARTICLE{10494361,
@@ -35,19 +35,13 @@ If you find DiffDet4SAR and MaDiNet helpful to your research or wish to refer to
 
 ```
 
-
-
-The BibTex of MaDiNet is on her way🥰
 ```BibTeX
-@misc{zhou2024madinetmambadiffusionnetwork,
-      title={MaDiNet: Mamba Diffusion Network for SAR Target Detection}, 
-      author={Jie Zhou and Chao Xiao and Bowen Peng and Tianpeng Liu and Zhen Liu and Yongxiang Liu and Li Liu},
-      year={2024},
-      eprint={2411.07500},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV},
-      url={https://arxiv.org/abs/2411.07500}, 
-}
+@ARTICLE{zhou2025madinet,
+  author={Zhou, Jie and Peng, Bowen and Liu, Yongxiang and Liu, Li and Li, Xiang},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={MaDiNet: Mamba Diffusion Network for SAR Target Detection}, 
+  year={2025}
+  }
 ```
 
 Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource on SAR image interpretations!
