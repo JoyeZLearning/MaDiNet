@@ -24,13 +24,9 @@
 ## 📽️ Getting Started
 
 The installation instruction and usage are in [Getting Started with DiffusionDet](GETTING_STARTED.md).
-
-
-
-
-
-
+The MambaSAR is inspired by MambaVision of NVlabs [MambaVision](https://github.com/NVlabs/MambaVision) and LeapLabTHU [attention](https://github.com/LeapLabTHU/Agent-Attention). Thanks to NVlabs and LeapLabTHU.
 *The overall repository style is highly borrowed from [DifffusionDet](https://github.com/ShoufaChen/DiffusionDet). Thanks to Shoufa Chen.
+
 
 ## License
 
