@@ -1,4 +1,4 @@
-## MaDiNet: Mamba Diffusion Network for SAR Target Detection
+## MaDiNet: Mamba Diffusion Network for SAR Target Detection (IEEE TCVST 2025)
 
 👑**We're quite intrigued by MaDiNet and hope it can serve as a delightful spark of inspiration for more friends to delve into this fascinating field.**
 
