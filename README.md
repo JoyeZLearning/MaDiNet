@@ -3,7 +3,7 @@
 👑**MaDiNet is the first work to integrate Gamma distribution into diffusion model with Mamba for SAR target detection.**
 
 
-✨**We hope her can inspire more friends to delve into this fascinating field.**
+✨**We hope she can inspire more friends to delve into this fascinating field.**
 
 
 
