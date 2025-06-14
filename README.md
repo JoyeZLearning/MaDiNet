@@ -1,4 +1,4 @@
-## MaDiNet: Mamba Diffusion Network for SAR Target Detection (IEEE TCVST 2025)
+## MaDiNet: Mamba Diffusion Network for SAR Target Detection (IEEE TCSVT 2025)
 
 👑**MaDiNet is the first work to integrate Gamma distribution into diffusion model with Mamba for SAR target detection.**
 
