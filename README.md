@@ -43,15 +43,14 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE) for detai
 If you find MaDiNet and DiffDet4SAR helpful to your research or wish to refer to the baseline results published here, please use the following BibTeX entry🥰.
 
 ```BibTeX
-@ARTICLE{11016924,
+@ARTICLE{zhou2025madinet,
   author={Zhou, Jie and Liu, Yongxiang and Peng, Bowen and Liu, Li and Li, Xiang},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={MaDiNet: Mamba Diffusion Network for SAR Target Detection}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Synthetic aperture radar;target detection;state space model;diffusion model},
+  volume={35},
+  number={11},
+  pages={10787-10800},
   doi={10.1109/TCSVT.2025.3574657}}
 
 ```
