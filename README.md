@@ -11,7 +11,7 @@
 ## 🛠️ Updates
 - (10/2024) Code is released.
 - (05/28/2025) MaDiNet has her unique identity card! (doi: 10.1109/TCSVT.2025.3574657).
-
+- (11/02/2025) MaDiNet has her publication date! (IEEE TCSVT (Volume: 35, Issue: 11, November 2025)).
 ## 🕸️ Dataset
 - SSDD [[link](https://github.com/TianwenZhang0825/Official-SSDD)]
 
