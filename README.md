@@ -32,6 +32,11 @@
 
 *The overall repository style is highly borrowed from [DifffusionDet](https://github.com/ShoufaChen/DiffusionDet). Thanks to Shoufa Chen.
 
+## 🍭 GOOD NEW!!!
+MaDiNet has entered the top 1% of ESI highly cited papers and obtained her life trophy on March, 12, 2026 🎉🎉🎉
+
+
+
 
 ## License
 
