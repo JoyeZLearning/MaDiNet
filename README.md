@@ -35,8 +35,7 @@
 
 ## 🍭 GOOD NEW!!!
 MaDiNet has entered the top 1% of ESI highly cited papers and obtained her life trophy on March, 12, 2026 🎉🎉🎉
-
-[highly cited papers](https://github.com/JoyeZLearning/MaDiNet/blob/master/20260315231130_419_1354.png)
+<img width="1857" height="537" alt="41ac602c90446b5b24b47d8fd55d41d9" src="https://github.com/user-attachments/assets/370052b1-1180-4b63-8812-76b4c65a9532" />
 
 
 
