@@ -78,6 +78,4 @@ If you find MaDiNet and DiffDet4SAR helpful to your research or wish to refer to
 
 
 
-Please light up the STAR⭐⭐⭐⭐⭐  to encourage more and more opensource on SAR image interpretations!
-
-🥰🥳🥂
+Please light up the STAR⭐⭐⭐⭐⭐  to encourage more opensource on SAR image interpretations!🥰🥳🥂
