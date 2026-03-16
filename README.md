@@ -8,11 +8,11 @@
 
 
 
-## 🛠️ Updates (MM/DD/YY)
-- (10/2024) Code is released.
-- (05/28/2025) MaDiNet has her unique identity card! (doi: 10.1109/TCSVT.2025.3574657).
-- (11/02/2025) MaDiNet has her publication date! (IEEE TCSVT (Volume: 35, Issue: 11, November 2025)).
-- (03/15/2026) MaDiNet has her life trophy of ESI 1% highly cited papers.
+## 🛠️ Updates (YY/MM/DD)
+- (2024/10) Code is released.
+- (2025/05/28) MaDiNet has her unique identity card! (doi: 10.1109/TCSVT.2025.3574657).
+- (2025/11/02) MaDiNet has her publication date! (IEEE TCSVT (Volume: 35, Issue: 11, November 2025)).
+- (2026/03/15) MaDiNet has her life trophy of ESI 1% highly cited papers.
 ## 🕸️ Dataset
 - SSDD [[link](https://github.com/TianwenZhang0825/Official-SSDD)]
 
