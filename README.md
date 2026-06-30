@@ -12,7 +12,8 @@
 - (2024/10) Code is released.
 - (2025/05/28) MaDiNet has her unique identity card! (doi: 10.1109/TCSVT.2025.3574657).
 - (2025/11/02) MaDiNet has her publication date! (IEEE TCSVT (Volume: 35, Issue: 11, November 2025)).
-- (2026/03/15) MaDiNet has her life trophy of ESI 1% highly cited papers.
+- (2026/03/12) MaDiNet has her life trophy of ESI 1% highly cited papers.
+- (2026/05/14) MaDiNet simultaneously held both her life trophy of ESI 1% highly cited papers and flame of ESI 1‰ hot papers.
 ## 🕸️ Dataset
 - SSDD [[link](https://github.com/TianwenZhang0825/Official-SSDD)]
 
@@ -37,6 +38,8 @@
 MaDiNet has entered the top 1% of ESI highly cited papers and obtained her life trophy on March, 12, 2026 🎉🎉🎉
 <img width="1857" height="537" alt="41ac602c90446b5b24b47d8fd55d41d9" src="https://github.com/user-attachments/assets/370052b1-1180-4b63-8812-76b4c65a9532" />
 
+MaDiNet simultaneously held both her life trophy of ESI 1% highly cited papers and flame of ESI 1‰ hot papers on May, 14, 2026 🎉🎉🎉
+<img width="1854" height="657" alt="image" src="https://github.com/user-attachments/assets/b98c131d-58de-4acc-9bd3-87d61eafe4e2" />
 
 
 ## License
