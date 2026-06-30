@@ -39,7 +39,8 @@ MaDiNet has entered the top 1% of ESI highly cited papers and obtained her life 
 <img width="1857" height="537" alt="41ac602c90446b5b24b47d8fd55d41d9" src="https://github.com/user-attachments/assets/370052b1-1180-4b63-8812-76b4c65a9532" />
 
 MaDiNet simultaneously held both her life trophy of ESI 1% highly cited papers and flame of ESI 1‰ hot papers on May, 14, 2026 🎉🎉🎉
-<img width="1854" height="657" alt="image" src="https://github.com/user-attachments/assets/b98c131d-58de-4acc-9bd3-87d61eafe4e2" />
+<img width="1806" height="626" alt="image" src="https://github.com/user-attachments/assets/3f760672-13e2-47d2-be42-c735313e0ea1" />
+
 
 
 ## License
